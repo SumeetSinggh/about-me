@@ -15,7 +15,7 @@ I'm an **Analytical Cloud Engineer** and **Technical Consultant** with 5+ years 
 ## 🚀 Learning DevOps  
 I'm currently exploring:  
 ✅ **Containerization:** Docker, Kubernetes  
-✅ **Infrastructure as Code:** Terraform, Ansible 
+✅ **Infrastructure as Code:** Terraform, Ansible  
 ✅ **CI/CD Pipelines:** GitHub Actions, Azure DevOps 
 
 ## Let's Connect!

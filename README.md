@@ -23,7 +23,7 @@ I'm currently exploring:
 💼 [LinkedIn](https://www.linkedin.com/in/sumeetsingh-ss/)  
 🐙 [GitHub](https://github.com/SumeetSinggh)
 
-⚡ Fun Fact
+⚡ Fun Fact  
 When I’m not optimizing cloud infrastructure, I’m conducting highly scientific experiments in my home lab—also known as "accidentally breaking stuff and pretending it was on purpose" (only to fix it better later 😄).
 
 Always open to **collaborations, tech discussions, and new challenges**! 🚀

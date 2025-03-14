@@ -12,16 +12,16 @@ I'm an **Analytical Cloud Engineer** and **Technical Consultant** with 5+ years 
 - 🤝 **Pre-sales & Solutioning** – Engage in technical discussions with customers to understand requirements and design solutions.
 - 🎨 **Innovation & Collaboration** – Drive a culture of innovation through hackathons and cross-functional technical forums.
 
-## Technologies & Tools
-- ☁ **Cloud Platforms**: Azure
-- ⚡ **Automation**: PowerShell, Bash, Terraform
-- 🛠 **DevOps & CI/CD**: GitHub Actions, Azure DevOps
-- 📊 **Monitoring**: Azure Monitor, Log Analytics
+## 🚀 Learning DevOps  
+I'm currently exploring:  
+✅ **Containerization:** Docker, Kubernetes  
+✅ **Infrastructure as Code:** Terraform, Ansible
+✅ **CI/CD Pipelines:** GitHub Actions, Azure DevOps 
 
 ## Let's Connect!
 📧 [Email](mailto:sumeet.singh01@outlook.com)  
 💼 [LinkedIn](https://www.linkedin.com/in/sumeetsingh-ss/)  
-[![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)](https://github.com/SumeetSinggh)
+🐙 [GitHub](https://github.com/SumeetSinggh)
 
 ⚡ Fun Fact
 When I’m not optimizing cloud infrastructure, I’m conducting highly scientific experiments in my home lab—also known as "accidentally breaking stuff and pretending it was on purpose" (only to fix it better later 😄).
